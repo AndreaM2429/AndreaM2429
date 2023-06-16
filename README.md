@@ -88,7 +88,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### The link to my portfolio is in progres... 
+### The link to my portfolio is in progress... 
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtaGdpcWNkbXN4aWUxcG9xbzh5ZG1pZXo0NTRkNTByZTFhbHdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XzqEFZ06NSFgXaut2g/giphy.gif" width="130" height="80" style="margin-right: 10px;">
