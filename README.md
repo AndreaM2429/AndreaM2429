@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" > </picture>
 
 <br>
 
@@ -38,6 +38,8 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
+	 <a href="https://andream2429.github.io/My_Portfolio/" target="_blank">
+		 <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/andrea-manuel-2b075026a/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/AndreaM2429">
@@ -65,7 +67,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,mysql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,mysql,vscode,react,redux,ruby,postgresql&perline=14" />
   </a>
 </p>
 
@@ -78,18 +80,22 @@
 <div align="center">
 
 <a href="https://github.com/andreaM2429/">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreaM2429&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreaM2429&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="andreaM2429"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreaM2429&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaM2429&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="andreaM2429"/>
 
 </a>
+
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AndreaM2429&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
 </div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### The link to my portfolio is in progress... 
-
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtaGdpcWNkbXN4aWUxcG9xbzh5ZG1pZXo0NTRkNTByZTFhbHdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XzqEFZ06NSFgXaut2g/giphy.gif" width="130" height="80" style="margin-right: 10px;">
-
